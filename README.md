@@ -9,9 +9,9 @@ This repository contains everything you need to learn Python — from beginner t
 ## 📂 Course Structure
 - [00 Introduction](./00-introduction)  
 - [01 Setup](./01-setup)  
-- [02 Chapters](./01-chapters)  
-- [03 Problems](./02-problems)    
-- [04 Projects](./projects)
+- [02 Chapters](./02-chapters)  
+- [03 Problems](./03-problems)    
+- [04 Projects](./04-projects)
 
 ## 🚀 How to Use
 1. Open any topic folder (e.g., `01-basics/`)  
