@@ -7,7 +7,8 @@ This repository contains everything you need to learn Python — from beginner t
 2. Exercises → practice problems to test your knowledge
 
 ## 📂 Course Structure
-- [00 Setup](./00-setup)  
+- [00 introduction](./00-introduction)  
+- [01 Setup](./01-setup)  
 - [01 Basics](./01-basics)  
 - [02 Control Flow](./02-control-flow)  
 - [03 Functions](./03-functions)  
