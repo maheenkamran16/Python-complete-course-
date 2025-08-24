@@ -7,11 +7,11 @@ This repository contains everything you need to learn Python — from beginner t
 2. Exercises → practice problems to test your knowledge
 
 ## 📂 Course Structure
-- [00 Introduction](./00-introduction)  
-- [01 Setup](./01-setup)  
-- [02 Chapters](./02-chapters)  
-- [03 Problems](./03-problems)    
-- [04 Projects](./04-projects)
+- [00 Introduction](./introduction)  
+- [01 Setup](./setup)  
+- [02 Chapters](./chapters)  
+- [03 Problems](./problems)    
+- [04 Projects](./projects)
 
 ## 🚀 How to Use
 1. Open any topic folder (e.g., `01-basics/`)  
